@@ -70,7 +70,7 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-    Diploma of Hight University Studies O UCA
+      Diploma of Hight University Studies O UCA
 work:
   - position: Professeur Agrégé In computer Science
     company_name: Natioanl Education Minstry
