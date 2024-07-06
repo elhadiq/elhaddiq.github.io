@@ -63,8 +63,8 @@ education:
     institution: FST Guiliz Cadi Ayyad of Marrakech
     date_start: 2013-09-01
     date_end: 2016-07-12
-    summary: |
-    End Of study memory in Separation Theorem in local convex spaces
+    summary: | 
+      End Of study memory in Separation Theorem in local convex spaces
   - area: Math Computer Sciecnce and Physiscs 
     institution: FST Guiliz Cadi Ayyad of Marrakech
     date_start: 2016-01-01
@@ -90,7 +90,7 @@ work:
     date_start: 2019-01-01
     date_end: 2019-06-31
     summary: |
-    
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
