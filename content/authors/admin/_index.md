@@ -183,4 +183,10 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! I'm Zouhair el Hadhq, a dedicated and passionate educator in the field of computer science. With over two years of experience teaching at CPGE (Classes Préparatoires aux Grandes Écoles) and being a certified computer science instructor, I bring a wealth of knowledge and expertise to my students. My academic journey began with earning a State Engineering degree in modeling, which laid a strong foundation for my teaching career.
+
+Currently, I am engaged to the love of my life, Siham, and we are excitedly planning our future together. Our relationship, like any other, has its moments of discussions and disagreements, but our love and commitment to each other always prevail.
+
+When I'm not teaching or planning my next lesson, I enjoy exploring new technologies and finding innovative ways to integrate them into my curriculum. I believe in creating an engaging and dynamic learning environment that fosters curiosity and critical thinking.
+
+Thank you for visiting my website. Feel free to reach out if you have any questions or would like to connect!
