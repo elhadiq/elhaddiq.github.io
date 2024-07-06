@@ -170,3 +170,4 @@ Currently, I am engaged to the love of my life, Siham, and we are excitedly plan
 When I'm not teaching or planning my next lesson, I enjoy exploring new technologies and finding innovative ways to integrate them into my curriculum. I believe in creating an engaging and dynamic learning environment that fosters curiosity and critical thinking.
 
 Thank you for visiting my website. Feel free to reach out if you have any questions or would like to connect!
+---
