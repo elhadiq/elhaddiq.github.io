@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: EL HADIQ ZOUHAIR
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: EL HADIQ ZOUHAIR
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: EL HADIQ
+last_name: ZOUHAIR
 
 # Status emoji
 status:
@@ -20,46 +20,44 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Professuer Agrégé en Informatique
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: CPGE Salmane Al Farissi - Salé
+    url: https://www.cpge.ac.ma/SiteCPGE/LSF-Sl/Resultat.aspx
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:elhadiq.pro@example.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/zouhair_elhadiq
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://ma.linkedin.com/in/zelhadiq/en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-6108-7176
 
 interests:
-  - Artificial Intelligence
+  - Image Processing
   - Computational Linguistics
-  - Information Retrieval
+  - Computational Complexity
+  - Proof Theory
+  - 
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: Enginer Modeling and Scientific computer
+    institution: EMI Mohammed V University of Rabat
     date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_end: 2019-07-14
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      End of study Project: in quatitaive finance modeling of new quantitative Strategies
     button:
-      text: 'Read Thesis'
+      text: 'Read Report'
       url: 'https://example.com'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
