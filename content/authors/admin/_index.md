@@ -1,13 +1,13 @@
 ---
 # Display name
-title: EL HADIQ ZOUHAIR
+title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation:  
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: EL HADIQ
-last_name: ZOUHAIR
+first_name: Shiung Wu
+last_name: Chien
 
 # Status emoji
 status:
@@ -152,22 +152,35 @@ languages:
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.awards:
-  - title: 1st Place in License of Mathematics and Computer Science Promotion
-    url: http://www.uca.ma
-    date: '2024-06-15'
-    awarder: University Cadi Ayyad
-    icon: university
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+awards:
+  - title: Neural Networks and Deep Learning
+    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2023-11-25'
+    awarder: Coursera
+    icon: coursera
     summary: |
-      I was honored to receive 1st place in my promotion for the License of Mathematics and Computer Science at University Cadi Ayyad. This award reflects my dedication, hard work, and commitment to academic excellence. It has been a significant milestone in my journey, inspiring me to continue striving for excellence in the field of computer science.
-
+      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+  - title: Blockchain Fundamentals
+    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    date: '2023-07-01'
+    awarder: edX
+    icon: edx
+    summary: |
+      Learned:
+      - Synthesize your own blockchain solutions
+      - Gain an in-depth understanding of the specific mechanics of Bitcoin
+      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+  - title: 'Object-Oriented Programming in R'
+    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    certificate_url: https://www.datacamp.com
+    date: '2023-01-21'
+    awarder: datacamp
+    icon: datacamp
+    summary: |
+      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+---
 
 ## About Me
-Hello! I'm Zouhair el Hadhq, a dedicated and passionate educator in the field of computer science. With over two years of experience teaching at CPGE (Classes Préparatoires aux Grandes Écoles) and being a certified computer science instructor, I bring a wealth of knowledge and expertise to my students. My academic journey began with earning a State Engineering degree in modeling, which laid a strong foundation for my teaching career.
 
-Currently, I am engaged to the love of my life, Siham, and we are excitedly planning our future together. Our relationship, like any other, has its moments of discussions and disagreements, but our love and commitment to each other always prevail.
-
-When I'm not teaching or planning my next lesson, I enjoy exploring new technologies and finding innovative ways to integrate them into my curriculum. I believe in creating an engaging and dynamic learning environment that fosters curiosity and critical thinking.
-
-Thank you for visiting my website. Feel free to reach out if you have any questions or would like to connect!
----
+Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
