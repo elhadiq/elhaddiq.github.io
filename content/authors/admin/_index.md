@@ -24,8 +24,8 @@ role: Professeur Agrégé En Informatique
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Salmane Al Farissi CPGE
+    url: https://www.cpge.ac.ma/SiteCPGE/LSF-Sl/Resultat.aspx
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -34,17 +34,15 @@ profiles:
     url: 'mailto:elhadiq.pro@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/ElhadiqZouhair
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/zouhair_elhadiq
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/elhadiq
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://www.linkedin.com/in/zelhadiq/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-6108-7176
 
 interests:
   - Computer Science
